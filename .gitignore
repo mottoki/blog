@@ -50,4 +50,8 @@ hugo.linux
 .history
 .ionide
 
+# Icon
+Icon
+node_modules/*
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,hugo,linux
