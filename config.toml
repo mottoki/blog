@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Geotech Data"
       introSubtitle = "Better Solution to your Geotech Data"
-      introPhoto = "/picture.jpg"
+      introPhoto = "slopefailure.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
