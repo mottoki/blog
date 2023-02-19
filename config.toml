@@ -1,6 +1,6 @@
 baseURL = 'https://mottoki.github.io/geotechdata.github.io/'
 languageCode = 'en-us'
-title = 'Geotech Data'
+title = 'Geotechnical Data Solution'
 metaDataFormat = "yaml"
 theme = "blist"
 
@@ -12,23 +12,23 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Geotech Data"
-      introSubtitle = "Better Solution to your Geotech Data"
-      introPhoto = "slopefailure.png"
+      introTitle = "Geotech Data Solution"
+      introSubtitle = "Better tool to visualise and understand your Geotechnical Data."
+      introPhoto = "pexels-tima-miroshnichenko.jpg"
     [[languages.en.menu.main]]
-        name = "Blog"
+        name = "Product"
         url = "blog"
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "About"
+        name = "Contact Us"
         url = "page/about/"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 3
+        weight = 4
 
 [params]
   # Enable the darkmode toggle in header
@@ -52,7 +52,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Geotech Data · All rights reserved"
+  copyright = "Copyright © 2023 - Geotechnical Data Solution · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -115,53 +115,14 @@ DefaultContentLanguageInSubdir = true
     website = "linkedin"
     url = "https://linkedin.com/in/"
   [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
-  [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
-  [[params.homepage.social.icons]]
-    website = "medium"
-    url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
   [[params.homepage.social.icons]]
     website = "youtube"
     url = "https://youtube.com"
   [[params.homepage.social.icons]]
     website = "instagram"
     url = "https://instagram.com"
-  [[params.homepage.social.icons]]
-    website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
 
 [[menu.main]]
   name = "About"
