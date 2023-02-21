@@ -35,7 +35,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
@@ -106,7 +106,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "We work on stuff that make our lives easier"
 
   [[params.homepage.social.icons]]
     website = "twitter"
@@ -117,12 +117,6 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://instagram.com"
 
 [[menu.main]]
   name = "About"

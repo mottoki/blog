@@ -4,7 +4,9 @@ date: 2023-02-19T23:09:08+08:00
 draft: false
 ---
 
-Contact Geotech Data Solution
+How can we maximise our data?
+
+Contact Geotechnical Data Solution representative by submitting a form below and we will get back to you for further consultant.
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
@@ -20,8 +22,8 @@ onload="if(submitted) {window.location='';}"></iframe>
    <label>Subject*</label>
         <input type="text" placeholder="Subject*" class="form-input" name="entry.554841114" required>
 
-   <label>Message</label>
-        <textarea rows="5" placeholder="Message" class="form-input" name="entry.839337160" ></textarea>
+   <label>Message*</label>
+        <textarea rows="5" placeholder="Message*" class="form-input" name="entry.839337160" ></textarea>
 
    <button type="submit">Send</button>
 </form>
