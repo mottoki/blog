@@ -6,7 +6,7 @@ draft: false
 
 How can we maximise our data?
 
-Contact Geotechnical Data Solution representative by submitting a form below and we will get back to you for further consultant.
+Contact Geotechnical Data Solution representative by submitting a form below and we will get back to you for further consultation.
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 

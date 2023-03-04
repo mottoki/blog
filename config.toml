@@ -1,6 +1,6 @@
 baseURL = 'https://mottoki.github.io/geotechdata.github.io/'
 languageCode = 'en-us'
-title = 'Geotechnical Data Solution'
+title = 'Mining Geotechnics'
 metaDataFormat = "yaml"
 theme = "blist"
 
@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Geotech Data Solution"
-      introSubtitle = "Better tool to visualise and understand your Geotechnical Data."
+      introTitle = "Maximise Value of Geotechnical Data"
+      introSubtitle = "Mining Geotechnics provides tools to visualise and assist total comprehension of Geotechnical data. <br /> <br /> Contact us today for demonstration"
       introPhoto = "pexels-tima-miroshnichenko.jpg"
     [[languages.en.menu.main]]
         name = "Product"
