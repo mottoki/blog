@@ -1,4 +1,4 @@
-baseURL = 'https://mottoki.github.io/geotechdata.github.io/'
+baseURL = 'https://mininggeotechnics.com/'
 languageCode = 'en-us'
 title = 'Mining Geotechnics'
 metaDataFormat = "yaml"
@@ -52,7 +52,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Geotechnical Data Solution · All rights reserved"
+  copyright = "Copyright © 2023 - Mining Geotechnics · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
